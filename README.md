@@ -16,7 +16,12 @@ I used `sklearn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `re`, `string` to 
 
 I trained model on 4,000 rows dataset of all 4 languages. I expect to extend Dataset to increase probability.
 
+# DATASET
 
+[View or download Dataset](https://www.kaggle.com/datasets/programmerdatch/kinyarwanda-dataset) I used to train this model.
+
+# Model 
+You can use  [this model](https://www.kaggle.com/models/programmerdatch/kinyarwanda-and-eac-languages-detection-model) already trained in your project.
 
 
 # Author
